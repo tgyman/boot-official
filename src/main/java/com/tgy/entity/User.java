@@ -6,7 +6,7 @@ package com.tgy.entity;
 public class User {
     private String userName;//用户姓名
     private int age;//年龄
-    private String address;//家庭住址，用户1修改了
+    private String address;//家庭住址,用户2
 
     public String getUserName() {
         return userName;
